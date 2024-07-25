@@ -1,0 +1,3 @@
+1st we have to add the file -> git add file name 
+give commit massage  -> git commit -m "commit massage anything"
+and push the fime -> git push origin main (main file )
